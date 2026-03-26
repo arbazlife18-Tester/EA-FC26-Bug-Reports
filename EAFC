@@ -1,0 +1,97 @@
+# EA FC 26 Bug Reports
+### QA Portfolio — Arbaz Khan
+### Game QA Tester | Jira Certified | EA Community Playtester ID: 591261
+
+Structured bug reports logged during independent 
+gameplay testing of EA FC 26. Cross-referenced 
+with EA's official Trello board and forums.
+
+---
+
+## Bug 1 — Pro Clubs Server Connection Error
+**Platform:** PlayStation 5
+**Severity:** High
+**Status:** Under Investigation — EA Trello
+**Jira ID:** MP-1
+
+**Steps to Reproduce:**
+1. Launch EA FC 26
+2. Navigate to Pro Clubs mode
+3. Select Join or Create a Club
+4. Attempt to connect
+
+**Expected:** Connects to lobby successfully
+**Actual:** EA server error — mode inaccessible
+
+---
+
+## Bug 2 — Controller Input Lag
+**Platform:** PlayStation 5
+**Severity:** High
+**Status:** Under Investigation — EA Trello
+**Jira ID:** MP-2
+
+**Steps to Reproduce:**
+1. Start any online match
+2. Press pass button (X)
+
+**Expected:** Instant response
+**Actual:** 1-2 second delay
+
+---
+
+## Bug 3 — Finesse Shot PlayStyle Weak Output
+**Platform:** PS5/PC
+**Severity:** High
+**Status:** Under Investigation — EA Trello
+**Jira ID:** MP-3
+
+**Steps to Reproduce:**
+1. Select player with Finesse Shot PlayStyle
+2. Get into shooting position
+3. Press R1 + Circle
+
+**Expected:** Fast accurate finesse shot
+**Actual:** Shot noticeably slower and weaker
+
+---
+
+## Bug 4 — Defenders Kickoff Positioning
+**Platform:** All Platforms
+**Severity:** High
+**Status:** Under Investigation — EA Trello
+**Jira ID:** MP-4
+
+**Steps to Reproduce:**
+1. Start any match
+2. Observe defensive positioning during kickoff
+
+**Expected:** Defenders maintain proper positioning
+**Actual:** Defenders give excessive space to attackers
+
+---
+
+## Bug 5 — Controller Stops Registering Input
+**Platform:** PC
+**Severity:** Critical
+**EA Internal ID:** 186799
+**Status:** Under Investigation — EA Trello
+**Jira ID:** MP-5
+
+**Steps to Reproduce:**
+1. Launch EA FC 26 on PC
+2. Connect controller
+3. Play for several minutes
+
+**Expected:** Controller registers all inputs
+**Actual:** Controller completely stops mid-gameplay
+
+---
+
+## About This Portfolio
+- All bugs cross-referenced with EA's official 
+Trello board
+- Logged professionally in Jira with full 
+reproduction steps
+- Tester: Arbaz Khan | EA Playtester ID: 591261
+- Tools: Jira | EA Forums | EA Trello
