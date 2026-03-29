@@ -100,9 +100,9 @@ Intermittent (more frequent during peak hours)
 - Loss of player progress
 - Negative user experience
 - High frustration during competitive modes
+- 
+.## 🧠 Analysis
+Possible server-side synchronization issue where match data fails to save due to high server load or session timeout.
 
-## 🧠 Possible Cause (Analysis)
-Potential server-side issue where match completion data fails to sync between client and backend services. This may be caused by session timeout or server overload during peak usage.
-
-## 📎 Attachments (Suggested)
+## 📎 Attachments 
 - not available 
