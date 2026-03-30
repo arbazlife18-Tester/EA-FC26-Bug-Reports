@@ -25,18 +25,20 @@ gameplay testing of EA FC 26.
 ---
 
 ## Bug 2 — Controller Input Lag
+
 **Platform:** PlayStation 5
 **Severity:** High
-**Frequency:** Consistent
+**Frequency:** Consistent during online matches
 
 **Steps to Reproduce:**
-1. Start any online match
-2. Press pass button (X)
+1. Launch EA FC 26
+2. Start any online match
+3. Use standard controller settings
+4. Press pass button (X) during active gameplay
 
-**Expected:** Instant response
-**Actual:** 1-2 second delay
-
----
+**Expected:** Ball passes instantly on button press
+**Actual:** 1-2 second delay before pass executes
+**Impact:** Directly affects competitive timing and fairness
 
 ## Bug 3 — Finesse Shot PlayStyle Weak Output
 **Platform:** PlayStation 5
